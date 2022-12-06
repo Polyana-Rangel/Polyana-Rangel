@@ -1,6 +1,6 @@
 ## Olá, eu sou a Polyana Rangel!
 - 📚 Acadêmica de Sisemas de Informação na Femass
-- 🔭 Estudando Desenvolvimento Web Full Stack na Labenu 
+- 🔭 Full Stack Web Developer
 - 💻 HTML | CSS | React | Jest | Node JS | TypeScript | MySQL | AWS 
 - 😄 Pronome: ela/dela
 
